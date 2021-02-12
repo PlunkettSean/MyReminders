@@ -12,4 +12,5 @@
     <string name="title">Title</string>
     <string name="note">Note</string>
     <string name="action_create_reminder_list">Create Reminder</string>
+    <string name="todo">TODO</string>
 </resources>
