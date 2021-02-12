@@ -5,11 +5,11 @@
     <item
         android:id="@+id/action_home"
         android:orderInCategory="1"
-        android:title="Home"
+        android:title="@string/home"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_add_reminder"
         android:orderInCategory="2"
-        android:title="Add Reminder"
+        android:title="@string/add_reminder"
         app:showAsAction="never" />
 </menu>

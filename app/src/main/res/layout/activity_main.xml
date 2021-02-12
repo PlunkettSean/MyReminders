@@ -31,6 +31,7 @@
         app:srcCompat="@android:drawable/ic_menu_add"
         android:clickable="true"
         android:onClick="openCreateList"
-        android:contentDescription="@string/todo" />
+        android:contentDescription="@string/todo"
+        android:focusable="true" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

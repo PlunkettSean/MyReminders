@@ -8,15 +8,15 @@
         android:icon="@android:drawable/ic_menu_add"
         android:onClick="createReminder"
         android:title="@string/action_create_reminder_list"
-        app:showAsAction="always" />
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_home"
         android:orderInCategory="1"
-        android:title="Home"
+        android:title="@string/home"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_create_reminder"
         android:orderInCategory="2"
-        android:title="Add Reminder"
+        android:title="@string/add_reminder"
         app:showAsAction="never" />
 </menu>
